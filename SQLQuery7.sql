@@ -1,0 +1,1 @@
+select * from residents where city='beirut';
